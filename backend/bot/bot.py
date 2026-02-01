@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 BOT_TOKEN = os.getenv("8161107014:AAGBWEYVxie7-pB4-2FoGCPjCv_sl0yHogc", "")
-BASE_URL  = os.getenv("BASE_URL", "")  # Replit public URL: https://xxxxx.repl.co
+BASE_URL  = os.getenv("https://docs.replit.com/replit-workspace/workflows#creating-workflows", "")  # Replit public URL: https://xxxxx.repl.co
 
 ADMIN_ID = 5815294733
 
